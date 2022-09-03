@@ -2,7 +2,7 @@
 ### 1. 개인 미니 프로젝트
 |**DATE**| **PROJECT** | **DESCRIPTION** | **ETC** |
 |:--------:|:--------:|:------------:|:----------:|
-|2022/09/03|    Inst_Quiz_Game    |    국악기 맞히기 퀴즈 게임       | <details><summary>:bookmark: 바로가기 </summary><p>[?]()</p></details> |
+|2022/09/03|    Inst_Quiz_Game    |    국악기 맞히기 퀴즈 게임       | <details><summary>:bookmark: 바로가기 </summary><p>[Inst_Quiz_Game](https://github.com/HyeinYeo/Mini-Project/tree/main/Inst_Quiz_Game)</p></details> |
 
 ### 2. 클론 코딩(예제 프로젝트)
 |**DATE**| **PROJECT** | **DESCRIPTION** | **ETC** |
